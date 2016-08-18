@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for kissStreamReader
+# (esp8266)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+kissStreamReader KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendAndExpectString	KEYWORD2
+sendAndReadStringUntil	KEYWORD2
+streamClearInputBuffer  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
